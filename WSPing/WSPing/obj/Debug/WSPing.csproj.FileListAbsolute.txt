@@ -9,7 +9,7 @@ C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPing\WSPing\
 C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPing\WSPing\bin\WSPing.dll
 C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPing\WSPing\bin\WSPing.pdb
 C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPing\WSPing\bin\kafka-net.dll
+C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPing\WSPing\obj\Debug\WSPing.csprojResolveAssemblyReference.cache
 C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPing\WSPing\obj\Debug\WSPing.csproj.CoreCompileInputs.cache
 C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPing\WSPing\obj\Debug\WSPing.dll
 C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPing\WSPing\obj\Debug\WSPing.pdb
-C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPing\WSPing\obj\Debug\WSPing.csprojResolveAssemblyReference.cache

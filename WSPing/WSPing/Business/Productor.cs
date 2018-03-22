@@ -8,17 +8,24 @@ using KafkaNet.Protocol;
 
 namespace WSPing.Business
 {
-    public class Productor
+    public static class Productor
     {
-        public static void ProducirMsg(string msg, string idMsg)
-        {
-            var options = new KafkaOptions (new Uri("http://localhost:9092"));
-            var router = new BrokerRouter(options);
+        private static KafkaOptions options;
+        private static BrokerRouter router;
+        private static KafkaNet.Producer client;
 
-            var client = new KafkaNet.Producer(router);
+        static Productor()
+        {
+            options = new KafkaOptions(new Uri("http://localhost:9092"));
+            router = new BrokerRouter(options);
+            client = new KafkaNet.Producer(router);
+        }
+
+        public static void ProducirMsg(string msg, string idMsg)
+        {            
             Message message = new Message(msg, idMsg);
             client.SendMessageAsync("PingPongTopic", new[] { message });
-            client.Stop();
+            //client.Stop();
         }
     }
 }

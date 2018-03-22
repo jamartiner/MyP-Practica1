@@ -31,7 +31,7 @@ namespace WSPong.Business
         public static void ConsumirMsg()
         {
             var options = new KafkaOptions(new Uri("http://localhost:9092")/*, new Uri("http://localhost:9092")*/);
-            var router = new BrokerRouter(options);
+            //var router = new BrokerRouter(options);
             var consumer = new KafkaNet.Consumer(new ConsumerOptions("PingPongTopic", new BrokerRouter(options)));
 
             //Consume returns a blocking IEnumerable (ie: never ending stream)

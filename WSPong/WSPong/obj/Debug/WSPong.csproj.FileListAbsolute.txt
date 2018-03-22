@@ -1,8 +1,8 @@
-C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\bin\WSPong.pdb
-C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\obj\Debug\WSPong.csproj.CoreCompileInputs.cache
-C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\obj\Debug\WSPong.pdb
-C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\obj\Debug\WSPong.csprojResolveAssemblyReference.cache
-C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\bin\kafka-net.dll
 C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\bin\WSPong.dll.config
 C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\bin\WSPong.dll
+C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\bin\WSPong.pdb
+C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\bin\kafka-net.dll
+C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\obj\Debug\WSPong.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\obj\Debug\WSPong.csproj.CoreCompileInputs.cache
 C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\obj\Debug\WSPong.dll
+C:\Users\Personal\Desktop\MARCOS Y PATRONES DE SOFTWARE\Practica1\WSPong\WSPong\obj\Debug\WSPong.pdb

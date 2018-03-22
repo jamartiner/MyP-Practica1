@@ -16,7 +16,7 @@ namespace WSPing.Model
         {
             string idMsg = DateTime.Now.Ticks.ToString();
             Productor.ProducirMsg("Ping_Message", idMsg);
-            this.Data = Consumidor.Consumir(idMsg);
+            this.Data = Consumidor.ObtenerRespuesta(idMsg);
         }        
 
         #region IAsyncResult Members
